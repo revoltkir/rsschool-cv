@@ -1,7 +1,6 @@
 # **CV 2020**
 # **Kirill Tikach**
 ***
-## **Skills**
 ## **Contacts**
 ***
 Email Address:`coolk@mail.ru` or [Social](https:\\google.com)   
