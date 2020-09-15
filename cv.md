@@ -1,24 +1,21 @@
-# CV 
-
+# **CV 2020**
 # **Kirill Tikach**
---- ---
+***
 ## **Skills**
-
---- ---
-Email Address:`email@example.com` or [Email](https:\\)   
-Town: Grodno\
+## **Contacts**
+***
+Email Address:`coolk@mail.ru` or [Social](https:\\google.com)   
+Town: Minsk\
 Country: Belarus\
-Phone: `+375 (44) 555 555 5`
---- -
-## Education
+Phone: `+375 (29) 775-3-987`
+***
+## Skills
+>*
+>*  
+>* 
+***
 
-
->2020-2021(expected) - **RS School**;  
-2007-2010 -   
-2007-2005 -  
-2005-2000 -  
---- -
-### Experience
+## Experience
 
 **Work Experience:**
 
@@ -30,16 +27,15 @@ Phone: `+375 (44) 555 555 5`
 - Second 
   1. raz
   2. dva
-
-
-
     * TEXT
+    * Text
 
-saweaw aweawe aweaw eawe awe awe
---- -
+## Education
+>2020-2021(expected) - **RS School**;     
+>2005-2000 -  **IHEI**  (*International relationship*) 
+***
 ## Languages:
-
-     * ??? (native)
-     * ???
-     * ???
+* Russian (native)
+* Belarussian
+* English (intermediate B1)
 
