@@ -1,0 +1,43 @@
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+* {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(241, 241, 241);
+  font-size: 24px;
+}
+
+header {
+  text-align: center;
+  color: rgb(67, 118, 119);
+  font-size: 200%;
+  border-left: 40px solid rgb(160, 160, 160);
+  line-height: 225px;
+  background-color: rgb(255, 255, 255);
+  border-bottom: 2px solid rgb(160, 160, 160) ;
+  }
+img {
+  float: right;
+}
+section {
+    padding: 15px;
+    margin: 0px;
+    border-bottom: 2px solid rgb(160, 160, 160);
+    border-left: 40px solid rgb(160, 160, 160);
+
+}
+ul {
+    padding: 15px;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
